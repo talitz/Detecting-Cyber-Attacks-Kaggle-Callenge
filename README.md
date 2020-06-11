@@ -1,4 +1,6 @@
-# Students: Tal Yitzhak, Amal Abo Gush
+# Detecting Cyber Attacks Kaggle Challenge
+
+Students: Tal Yitzhak, Amal Abo Gush
 
 # Feature Engineering
 We used CountVectorizer to convert a collection of text documents to a matrix of token counts (for 2 and 5 commands that come as one after another).
